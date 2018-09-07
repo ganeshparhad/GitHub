@@ -2,9 +2,9 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.amdocs</groupId>
-  <artifactId>SpringExample</artifactId>
+  <artifactId>SpringMVC</artifactId>
   <packaging>jar</packaging>
-  <version>spring5</version>
+  <version>spring6</version>
   <name>SpringExample</name>
   <url>http://maven.apache.org</url>
   
@@ -22,22 +22,7 @@
 		<artifactId>spring</artifactId>
 		<version>2.5.6</version>
 	</dependency>
-<<<<<<< HEAD
-	
-     <distributionManagement>
-        <repository>
-            <id>myMavenRepo.write</id>
-            <url>https://mymavenrepo.com/repo/3d8x0shvl4swp6gMEiIf/ </url>
-        </repository>
-        <snapshotRepository>
-            <id>myMavenRepo.write</id>
-            <url>https://mymavenrepo.com/repo/3d8x0shvl4swp6gMEiIf/ </url>
-        </snapshotRepository>
-    </distributionManagement>
-=======
-    
-	  
->>>>>>> db0be53bc80e9f570321777e40984ba261fbacbf
+
     
   </dependencies>
 	
