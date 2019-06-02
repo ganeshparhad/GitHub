@@ -1,0 +1,2 @@
+insert into Employee (id,first_name,last_name,create_Date,last_Updated_Date) values(111,'Mukesh','Kumar',sysdate(),sysdate());
+insert into Employee (id,first_name,last_name,create_Date,last_Updated_Date) values(2222,'Aarav','Gakhar',sysdate(),sysdate());
